@@ -1,3 +1,5 @@
 jupyterlab
 polars
-seaborn
+pyarrow
+pandas
+altair==5.0.0rc1
