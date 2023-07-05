@@ -1,5 +1,14 @@
 # Analyzing Cambridge bicycle usage over time
 
+To run BlueBikes notebook:
+
+```
+python3 -m venv venv
+. venv/bin/activate  # or Windows equivalent
+pip install -r requirements.txt
+jupyter-lab bluebikes.ipynb
+```
+
 ## Potential data sources
 
 * Annual bicycle survey
